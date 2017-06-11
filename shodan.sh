@@ -3,6 +3,7 @@
 # Instalar shodan: easy_install shodan
 # shodan init APIKEY
 # Lee del fichero ip.txt la lista de IP
+# Uso: sh shodan.sh
 # (C) hackingyseguridad.com 2017 
 echo  
 DATE=`date +%Y%m%d`
