@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script para testear IP con shodan.io 
+# Script para testear IP con https://www.shodan.io/
 # Instalar shodan: easy_install shodan
 # shodan init APIKEY
 # Lee del fichero ip.txt la lista de IP
