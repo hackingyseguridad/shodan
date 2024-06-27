@@ -37,13 +37,15 @@ shodan download windows2008r2_NB_Aug "os:'Windows Server 2008 r2' country:CA reg
 #Shodan download data for "Shared Services Canada" (Pay attention to spaces and query)
 shodan download Shared_Services_Canada "org:'Shared Services Canada'"
 
-#Buscadores similares:
+#Buscadores de dispositivos similares:
 
 https://www.shodan.io/
 
 https://search.censys.io/
 
 https://www.zoomeye.org/
+
+https://en.fofa.info/
 
 https://intelx.io/
 
